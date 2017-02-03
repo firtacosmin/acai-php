@@ -1,1 +1,0 @@
-mplayer -ac ffwmapro -vc ffvc1 -idle -mc 0 -autosync 30 -vf scale=: -delay -0.043356 -audiofile /tmp//Audio57fcc026cc30c.wav  /tmp//Video57fcc026cc30c.vc1
